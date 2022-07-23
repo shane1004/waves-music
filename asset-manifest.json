@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/waves-music/static/css/main.e5370511.css",
+    "main.js": "/waves-music/static/js/main.608ac7c7.js",
+    "static/js/787.ded37e57.chunk.js": "/waves-music/static/js/787.ded37e57.chunk.js",
+    "index.html": "/waves-music/index.html",
+    "main.e5370511.css.map": "/waves-music/static/css/main.e5370511.css.map",
+    "main.608ac7c7.js.map": "/waves-music/static/js/main.608ac7c7.js.map",
+    "787.ded37e57.chunk.js.map": "/waves-music/static/js/787.ded37e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5370511.css",
+    "static/js/main.608ac7c7.js"
+  ]
+}
